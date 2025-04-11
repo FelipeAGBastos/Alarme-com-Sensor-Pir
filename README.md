@@ -1,2 +1,2 @@
 # Alarme-com-Sensor-Pir
-Alarme com Sensor Pir no arduibo
+Alarme com Sensor Pir no arduino
